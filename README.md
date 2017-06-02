@@ -46,3 +46,8 @@ sudo systemctl enable pi-blaster.service
 Open a browser on http://Raspberrypi_Ip_Address
 
 Enjoy ;)
+
+![hardware](https://github.com/SegFault42/RGB_led_remote/raw/master/hardware.png
+)
+
+Mosfet IRLZ34N
